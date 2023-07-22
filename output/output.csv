@@ -1,1 +1,20 @@
-
+Dimensions.Height,Dimensions.Length,Dimensions.Width,Gears,Transmission,Fuel_Type,Make,Identification.Year,Horsepower,Torque,Drive,MPG,Carbon_Footprint(kg)
+223,82,52,6, Automatic,Gasoline,Chevrolet,2011,430,424,Rear-wheel drive,20.012373,181.07
+226,243,201,6, Automatic Select Shift,Gasoline,BMW,2011,555,500,All-wheel drive,14.496822,131.17
+244,165,102,6, Manual,Gasoline,Toyota,2011,236,266,Four-wheel drive,16.064129,145.35
+77,185,237,6, Automatic,Gasoline,Chevrolet,2011,315,338,Four-wheel drive,18.00094,162.87
+254,199,158,6, Manual,Gasoline,Nissan,2010,122,127,Front-wheel drive,28.513279,257.99
+144,174,24,6, Manual,Gasoline,BMW Motorrad,2010,230,200,All-wheel drive,21.10389,190.95
+188,31,206,6, Automatic Select Shift,E85,Chrysler,2011,283,260,Front-wheel drive,20.880974,181.21
+140,105,91,8, Automatic Select Shift,Gasoline,Audi,2012,310,325,All-wheel drive,22.722517,205.59
+138,78,31,7, Automatic Select Shift,Gasoline,Mercedes,2010,382,391,Four-wheel drive,13.585449,122.92
+102,36,212,6, Automatic,E85,Ford,2011,302,278,Rear-wheel drive,14.518369,125.99
+150,22,234,7, Automatic Select Shift,Gasoline,Mercedes,2011,228,221,Rear-wheel drive,21.999407,199.05
+188,68,97,6, Automatic Select Shift,Gasoline,Hyundai,2012,175,169,Front-wheel drive,24.147833,218.49
+26,13,252,6, Manual,Gasoline,MINI,2012,181,177,All-wheel drive,27.446362,248.33
+200,153,239,4, Automatic,Gasoline,Hyundai,2010,138,136,Front-wheel drive,29.8028,269.66
+162,233,41,6, Automatic,Gasoline,Ford,2012,175,172,Front-wheel drive,27.831215,251.82
+144,169,85,6, Manual,Gasoline,Ford,2011,305,280,Rear-wheel drive,23.930115,216.52
+208,127,57,5, Manual,Gasoline,Suzuki,2010,152,171,Rear-wheel drive,20.999462,190.0
+93,200,183,6, Manual,Gasoline,Lotus,2011,189,133,Rear-wheel drive,24.979849,226.02
+82,215,240,4, Automatic,Gasoline,bb,2010,302,305,Rear-wheel drive,16.504896,149.34
